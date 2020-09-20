@@ -1,3 +1,6 @@
+# A Data Scientist’s Guide to Distributions in PyTorch
+*5 functions to fill tensors with values from common probability distributions in statistics*
+
 PyTorch is a popular open-source machine learning and deep learning framework. It uses tensors that are optimized for deep learning using GPUs and CPUs.
 
 The PyTorch documentation defines a tensor as
